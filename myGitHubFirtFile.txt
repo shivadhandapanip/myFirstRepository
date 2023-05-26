@@ -1,8 +1,10 @@
 This is my first file created locally and uploaded to Github
 
-This is line 1
+This is line 1   
 
 Line 2 is the second line
 
+2.5 Line
 
-As expected this is the third line
+
+As expected this is the 3rd line
